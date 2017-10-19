@@ -1,0 +1,17 @@
+{
+  "name": "saitama-sama/tennessine",
+  "version": "0.0.1-dev",
+  "author": {
+    "name": "Saitama Sama",
+    "email": "ping@gourab.me",
+    "website": "gourab.me"
+  },
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tennessine\\": "lib/"
+    }
+  }
+}
